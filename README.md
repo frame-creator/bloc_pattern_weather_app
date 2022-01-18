@@ -1,4 +1,4 @@
-# 🔧 플루터 상태관리 Bloc Pattern
+#  🔧  플루터 상태관리 Bloc Pattern
 
 
 
@@ -15,7 +15,7 @@
 <div align="center">
 	
 
-  플루터 상태관리 bloc 패턴을 적용하여 api 날씨앱
+  플루터 상태관리 bloc 패턴을 적용한 api 날씨 앱
 	
   온도, 습도, 미세먼지, 풍속 데이터를 표시해 주는 flutter 앱 
 	
